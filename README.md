@@ -2,7 +2,7 @@
 
 [![Shields.io](https://img.shields.io/badge/type-college%20project-orange?style=flat)](http://shields.io/)
 
-LL(1) parser (Left-to-right, Leftmost derivation) is a top-down parser for a subset of context-free languages. It parses the input from Left to right, performing Leftmost derivation of the sentence.This project is LL(1) parser implemented using java. It takes the set of rules as text and then generates the output. This project was made for **(Compiler - Forth Year)** in my college.
+LL(1) parser (Left-to-right, Leftmost derivation) is a top-down parser for a subset of context-free languages. It parses the input from Left to right, performing Leftmost derivation of the sentence. This project is LL(1) parser implemented using java. It takes the set of rules as text and then generates the output. This project was made for **(Compiler - Forth Year)** in my college.
 
 ### Input Example
 ```
